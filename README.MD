@@ -6,6 +6,10 @@
     </p>
 </h1>
 
+<h1 align="center">
+    <img alt="GoBarber" src="https://res.cloudinary.com/paulohenriquepm/image/upload/v1589511769/gobarber-web_lgn8mt.gif" />
+</h1>
+
 # GoBarber
 
   GoBarber é uma aplicação de gerenciamento de agendamentos para proprietários de salões de beleza e barbearias, com o objetivo de facilitar a comunicação entre prestador de serviço e cliente.
