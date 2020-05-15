@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="GoBarber" src="https://res.cloudinary.com/matheuspires/image/upload/v1587645873/gobarber-1300_tgcyef.gif" />
+    <img alt="GoBarber" src="https://res.cloudinary.com/paulohenriquepm/image/upload/v1589511769/gobarber-web_lgn8mt.gif" />
 </h1>
 
 # GoBarber
