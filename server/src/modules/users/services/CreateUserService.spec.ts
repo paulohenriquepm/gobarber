@@ -22,7 +22,7 @@ describe('CreateUser', () => {
       password: '123456',
     });
 
-    await expect(user).toHaveProperty('id');
+    expect(user).toHaveProperty('id');
   });
 
   it('should not be able to create a new user with duplicate email', async () => {
