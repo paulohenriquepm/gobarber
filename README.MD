@@ -3,6 +3,8 @@
     <p align="center">
       <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/paulohenriquepm/gobarber">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulohenriquepm/gobarber">
+      <img alt="Stars" src="https://img.shields.io/github/stars/paulohenriquepm/gobarber">
+      <img alt="Repository Size" src="https://img.shields.io/github/repo-size/paulohenriquepm/gobarber">
     </p>
 </h1>
 
